@@ -1,29 +1,31 @@
 # 🚀 AI-Driven Digital Growth Platform
 
-An intelligent, full-stack digital growth platform built to empower local businesses with smart AI strategies, responsive web solutions, competitor insights, and automated referral programs.
+A modern, responsive front-end web application powered by **React**, **Vite**, and **OpenAI API**, designed to provide local businesses with smart AI strategies, pain point analysis, pricing calculators, and competitor insights.
 
 ---
 
 ## 📌 Overview
 
-The **AI-Driven Digital Growth Platform** bridges the gap between traditional local operations and modern digital scale. It provides business owners with interactive tools to analyze market pain points, review transparent pricing tiers, track competitors, and drive viral organic customer growth.
+The **AI-Driven Digital Growth Platform** leverages artificial intelligence to help local businesses scale their online presence. Built with a fast and lightweight React + Vite architecture, the platform integrates OpenAI capabilities to generate actionable business insights, identify market gaps, and streamline growth strategies.
 
 ---
 
 ## ✨ Features
 
+- 🤖 **AI-Powered Insights:** Integrated with OpenAI API to provide smart strategies and growth recommendations.
 - 🏢 **Company Overview:** Dynamic presentation of modern growth solutions and service offerings.
-- 🎯 **Pain Point Diagnosis:** Interactive forms to identify and address business bottlenecks.
-- 📊 **Competitor Analysis:** Strategic evaluation modules to identify market opportunities and positioning.
-- 💳 **Transparent Pricing:** Clean, tier-based pricing structures for development and marketing services.
-- 🎁 **Referral System:** Built-in client referral workflows designed to maximize word-of-mouth acquisition.
-- 🌓 **Adaptive Theme:** Smooth transitions with support for modern Light and Dark mode styling.
+- 🎯 **Pain Point Diagnosis:** Interactive forms to identify and analyze operational bottlenecks.
+- 📊 **Competitor Analysis:** Strategic evaluation tools to assess market positioning.
+- 💳 **Transparent Pricing:** Clean, interactive pricing tiers for digital services.
+- 🎁 **Referral Program:** Engagement loops to drive organic customer growth.
+- 🌓 **Theme Support:** Smooth transitions with support for Light and Dark modes.
 
 ---
 
 ## 🛠️ Tech Stack
 
 - **Framework:** [React.js](https://react.dev/) + [Vite](https://vitejs.dev/)
+- **AI Integration:** [OpenAI API](https://platform.openai.com/)
 - **Routing:** [React Router DOM](https://reactrouter.com/)
 - **Styling:** [Tailwind CSS](https://tailwindcss.com/)
 - **Icons & UI:** Lucide React / React Icons
