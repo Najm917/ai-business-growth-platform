@@ -33,14 +33,28 @@ The **AI-Driven Digital Growth Platform** bridges the gap between traditional lo
 ## 📂 Project Structure
 
 ```text
-src/
-├── components/
-│   ├── AboutCompany.jsx
-│   ├── CompetitorAnalysis.jsx
-│   ├── Navbar.jsx
-│   ├── PainPointForm.jsx
-│   ├── PricingSection.jsx
-│   └── ReferralProgram.jsx
-├── App.jsx
-├── main.jsx
-└── index.css
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   │   ├── AboutCompany.jsx
+│   │   ├── CompetitorAnalysis.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── PainPointForm.jsx
+│   │   ├── PricingSection.jsx
+│   │   └── ReferralProgram.jsx
+│   ├── Pages/
+│   │   ├── CompetitorPage.jsx
+│   │   ├── HomePage.jsx
+│   │   ├── PainPointPage.jsx
+│   │   ├── PricingPage.jsx
+│   │   └── ReferralPage.jsx
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+├── .oxlintrc.json
+├── index.html
+├── package.json
+├── package-lock.json
+├── README.md
+└── vite.config.js
