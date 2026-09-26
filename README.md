@@ -60,3 +60,7 @@ The **AI-Driven Digital Growth Platform** leverages artificial intelligence to h
 ├── package-lock.json
 ├── README.md
 └── vite.config.js
+
+git clone https://github.com/Najm917/ai-business-growth-platform.git
+cd ai-business-growth-platform
+
